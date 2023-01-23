@@ -1,0 +1,112 @@
+
+#view{
+    color:white;
+    height: 100px;
+    background-color: #5bd97d;
+  
+
+}
+
+body{
+    background-color: lightgray;
+    font-family:tahoma;
+}
+
+#signup_button{
+    background-color:lightgrey;
+    width:80px;
+    text-align:center;
+    padding-top:4px;
+    border-radius: 5px;
+    float:right;
+} 
+.box{
+    background-color:white;
+    width:700px;
+    height:500px;
+    margin-left:28%;
+    padding-top:30px;
+    
+    text-align:center;
+}
+
+#view2{
+    font-weight: bold;
+    padding: 16px;
+    text-decoration: none;
+
+
+}
+#text{
+    height:40px;
+    width:300px;
+    border-radius:7px;
+    font-size:19px;
+}
+
+#button{
+    width:300px;
+    height: 35px;
+    border-radius: 4px;
+    font-weight: bold;
+    
+}
+
+body{
+    font-family:tahoma;
+}
+#redirect{
+ text-decoration: none;
+}
+
+
+#bar{
+    height:100px;
+    background-color: rgb(59,89,152);
+    color: #d9dfeb;
+    padding: 4px;
+}
+
+#signup_button{
+
+    background-color: #42b72a;
+    width: 70px;
+    text-align: center;
+    padding:4px;
+    border-radius: 4px;
+    float:right;
+}
+
+#bar2{
+
+    background-color: white;
+    width:800px;
+    margin:auto;
+    margin-top: 50px;
+    padding:10px;
+    padding-top: 50px;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+#text{
+
+    height: 40px;
+    width: 300px;
+    border-radius: 4px;
+    border:solid 1px #ccc;
+    padding: 4px;
+    font-size: 14px;
+}
+
+#button{
+
+    width: 300px;
+    height: 40px;
+    border-radius: 4px;
+    font-weight: bold;
+    border:none;
+    background-color: rgb(59,89,152);
+    color: white;
+}
